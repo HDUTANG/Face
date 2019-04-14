@@ -1,0 +1,3 @@
+﻿  face_alignment_test.cpp
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\test\face_alignment_test.cpp(111): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+LINK : fatal error LNK1181: 无法打开输入文件“opencv_highgui2411.lib”

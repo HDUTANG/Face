@@ -1,0 +1,20 @@
+﻿  cfan.cpp
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\cfan.cpp(166): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\cfan.cpp(167): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\cfan.cpp(214): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\cfan.cpp(247): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\cfan.cpp(290): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\cfan.cpp(323): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\cfan.cpp(394): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\cfan.cpp(395): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  face_alignment.cpp
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\face_alignment.cpp(46): warning C4273: “seeta::FaceAlignment::FaceAlignment”: dll 链接不一致
+  c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\include\face_alignment.h(49): note: 参见“{ctor}”的前一个定义
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\face_alignment.cpp(59): warning C4273: “seeta::FaceAlignment::PointDetectLandmarks”: dll 链接不一致
+  c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\include\face_alignment.h(61): note: 参见“PointDetectLandmarks”的前一个定义
+c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\src\face_alignment.cpp(79): warning C4273: “seeta::FaceAlignment::~FaceAlignment”: dll 链接不一致
+  c:\users\administrator\desktop\吴恩达深度学习课程\中科大人脸程序\seetafaceengine-master\seetafaceengine-master\facealignment\include\face_alignment.h(54): note: 参见“{dtor}”的前一个定义
+  sift.cpp
+  正在生成代码...
+    正在创建库 C:\Users\Administrator\Desktop\吴恩达深度学习课程\中科大人脸程序\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceAlignment\examples\x64\Debug\FaceAlignment.lib 和对象 C:\Users\Administrator\Desktop\吴恩达深度学习课程\中科大人脸程序\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceAlignment\examples\x64\Debug\FaceAlignment.exp
+  FaceAlignment.vcxproj -> C:\Users\Administrator\Desktop\吴恩达深度学习课程\中科大人脸程序\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceAlignment\examples\x64\Debug\FaceAlignment.dll
